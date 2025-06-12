@@ -1,6 +1,1 @@
-# BingX Telegram Bot V7
-
-使用方法：
-1. 填好 `.env`
-2. 部署至 Railway
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template)
